@@ -17,7 +17,7 @@ int main(void)
 	while(1)
 	{
 		LED1 = !LED1;
-		Delay(5000);
+		Delay(50000);
 	}
 		
 }
