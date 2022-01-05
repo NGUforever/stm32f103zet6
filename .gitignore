@@ -1,0 +1,5 @@
+#忽略OBJ文件夹
+LED_KEIL5/OBJ
+#忽略LED_CubeMX文件夹下make后生成的烧录文件夹中的中间文件
+LED_CubeMX/build/*.o
+LED_CUbeMX/build/*.d
